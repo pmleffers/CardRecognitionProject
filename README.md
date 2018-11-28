@@ -42,7 +42,7 @@ The MtG Gatherer has every printed card in every set style, including updated or
 https://scryfall.com/
 Scryfall is another fantastic database with more goodies.
 
-**Home recorded videos and images of cards**
+***Home recorded videos and images of cards***
 
 **Additional Materials:**
 
