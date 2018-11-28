@@ -60,4 +60,6 @@ Scryfall is another fantastic database with more goodies.
 
 Part 1: The Subgame
 ================
-For this foundation part of the project I create videos to use for object detection, identifying cards within videos, capturing them in images, and storing card images into a created file structure on the system. After that is complete I sample random cards and identify portions for detection of unique elements, then overlay multiple cards on a randomly generated background to be used for training a neural network. More description is provided in the Jupyter Notebook.
+For this foundation part of the project I create videos to use for object detection, identifying cards within videos, capturing them in images, and storing card images into a created file structure on the system. After that is complete I sample random cards and identify portions for detection of unique elements, then overlay multiple cards on a randomly generated background to be used for training a neural network.
+
+More description is provided in the Jupyter Notebook.
