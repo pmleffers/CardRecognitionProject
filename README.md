@@ -11,14 +11,14 @@
 For this overall project I wanted to pick a fairly lofty goal worthy of a lot of time put into it. My goal for this project is to identify any tournament legal Magic the Gathering card by name in real time or near real time. Inspired by other very cool card detection projects (https://github.com/geaxgx/playing-card-detection); I wanted to take the complexity of card detection to the next level.
 
 **What makes this challenge unique?**
-What sets apart this project from other card detection projects is rather than creating a model that identifies generic cards with pre-defined generic symbols (Ace of Spades,King of Hearts, Queen of Diamonds) the difficulty is creating a neural network that can distinguish over 18,000 unique cards that have multiple printings, text changes, textures, shades, and art images. 
+What sets apart this project from other card detection projects is rather than creating a model that identifies generic cards with pre-defined generic symbols (Ace of Spades,King of Hearts, Queen of Diamonds) the difficulty is creating a neural network that can distinguish over 18,000+ unique cards that have multiple printings, text changes, textures, shades, and art images. 
 
 Below is somewhat of an example of the difficulty. We can see multiple printings of the *same card* with only one thing remaining constant, the title 'Brainstorm', even with that said a keen-eye will notice that the text is different colors for various different printings.
 
 ![alt text](https://github.com/pmleffers/CardRecognitionProject/blob/master/Brainstorms.jpg)
 
 **Challenges**
-1. Over 18,000 unique cards
+1. Over 18,000+ unique cards
 2. Multiple printings with different colors and styles
     - Different text, colors, shades, art
 3. Needs to recognize the card in real-time
