@@ -31,6 +31,7 @@ Luckily, there is a number of fantastic resources that can help me in my endeavo
 
 **MTG JSON**
 https://mtgjson.com/
+
 Although not the cleanest dataset MTG JSON has most printed cards by name as well as a number of juicy details such as color, mana-cost, printed card text, and sub/super-types.
 
 **MTG Gatherer**
@@ -41,6 +42,7 @@ The MtG Gatherer has every printed card in every set style, including updated or
 https://scryfall.com/
 Scryfall is another fantastic database with more goodies.
 
+**Home recorded videos and images of cards**
 
 **Additional Materials:**
 
@@ -55,3 +57,7 @@ Scryfall is another fantastic database with more goodies.
 * https://github.com/geaxgx/playing-card-detection
 
 * https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects
+
+Part 1: The Subgame
+================
+For this foundation part of the project I create videos to use for object detection, identifying cards within videos, capturing them in images, and storing card images into a created file structure on the system. After that is complete I sample random cards and identify portions for detection of unique elements, then overlay multiple cards on a randomly generated background to be used for training a neural network. More description is provided in the Jupyter Notebook.
