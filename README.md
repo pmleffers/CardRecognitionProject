@@ -66,5 +66,5 @@ Here is an example of the data source I used for this part of the project:
 
 [![Youtube card video](https://github.com/pmleffers/CardRecognitionProjectPart1/blob/master/YoutubeThumb.jpg)](https://www.youtube.com/watch?v=uHIOnX9ktjs)
 
-
+![alt text](http://nbviewer.jupyter.org/github/pmleffers/CardRecognitionProjectPart1/blob/master/MtG_Card_Recognition_part1.ipynb "***More description is provided in the Jupyter Notebook.***")
 ***More description is provided in the Jupyter Notebook.***
