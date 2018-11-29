@@ -68,3 +68,4 @@ Here is an example of the data source I used for this part of the project:
 
 [More description is provided in the Jupyter Notebook.](http://nbviewer.jupyter.org/github/pmleffers/CardRecognitionProjectPart1/blob/master/MtG_Card_Recognition_part1.ipynb)
 
+
