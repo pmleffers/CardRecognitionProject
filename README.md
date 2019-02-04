@@ -68,10 +68,13 @@ Here is an example of the data source I used for this part of the project:
 
 [More description is provided in the Jupyter Notebook.](http://nbviewer.jupyter.org/github/pmleffers/CardRecognitionProjectPart1/blob/master/MtG_Card_Recognition_Subgame.ipynb)
 
+
+
+
 Update: 2/2/2019
 ================
 * Need to increase framerate
 * Add skip frames
 * Modify it to index card names 
 
-[![Youtube card video](https://github.com/pmleffers/CardRecognitionProjectPart1/blob/master/YoutubeThumb.jpg)](https://www.youtube.com/watch?v=tTXB3zKv8iU&feature=youtu.be)
+[![Youtube card video](https://github.com/pmleffers/CardRecognitionProjectPart1/blob/master/updateImage.jpg)](https://www.youtube.com/watch?v=tTXB3zKv8iU&feature=youtu.be)
