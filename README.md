@@ -78,5 +78,7 @@ Update: 2/2/2019
 * Need to increase framerate
 * Add skip frames
 * Modify it to index card names 
+* Add thresholding
+* Apply vectorized implementations where appropriate
 
 [![Youtube card video](https://github.com/pmleffers/CardRecognitionProjectPart1/blob/master/updateImage.jpg)](https://www.youtube.com/watch?v=tTXB3zKv8iU&feature=youtu.be)
